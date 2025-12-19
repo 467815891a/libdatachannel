@@ -3,7 +3,7 @@
 ## Clone repository
 
 ```bash
-$ git clone https://github.com/paullouisageneau/libdatachannel.git
+$ git clone https://github.com/467815891a/libdatachannel.git
 ```
 
 ## Init submodules
